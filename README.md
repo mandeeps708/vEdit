@@ -16,7 +16,7 @@ make
 ./vEdit
 
 
-Thanks.
+Thanks and Regards.
 Mandeep Singh
 mandeeps708@gmail.com
 github.com/mandeeps708
